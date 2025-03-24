@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: rgb(252, 179, 179);
+}
+
+p{
+    color: white;
+}
+
+.logo {
+    float: right;
+    width: 400px; 
+    height: auto; 
+    margin-top: -20px;
+}
+
+.alert {
+    max-width: 450px;
+}
+
+code{
+    color: green;
+}
+
+h4 {
+    color: rgb(131, 103, 255);
+}
+
+.new-roman {
+    font-family: 'Times New Roman', serif;
+}
